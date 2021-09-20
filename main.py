@@ -1,2 +1,1 @@
-Privet
-dfghsg
+print("hello")
